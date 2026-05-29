@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:rotten_flesh",
+    "biomesoplenty:eyebulb",
+    "biomesoplenty:flesh_tendons",
+    "biomesoplenty:hair",
+    "biomesoplenty:flesh",
+    "biomesoplenty:porous_flesh"
+  ]
+}
