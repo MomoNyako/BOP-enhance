@@ -1,6 +1,6 @@
 {
   "pack": {
-    "description": "bopenhance resources",
-    "pack_format": 15
+    "pack_format": 15,
+    "description": "bop配方改进"
   }
 }
