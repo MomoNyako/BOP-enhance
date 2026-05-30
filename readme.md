@@ -1,6 +1,5 @@
 # License & Attribution / 版权与声明
 English:
-English:
 This mod depends on EOP_Enhance developed by guguzea. All copyrights of the original mod belong to the original author. This project strictly adheres to the MIT License used by the original mod and is intended solely for the purpose of redistribution and high-version development. If the original author wishes to have this dependency removed, please contact me by opening an Issue.
 
 中文：
